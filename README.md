@@ -62,7 +62,16 @@ To run this project locally:
    ```bash
    pip install  Mouse_automate.exe
    ```
-2. **Run The Application**:
+
+3. **The Most IMP Step**:
+   ```bash
+   For installing the software you would require the software! For that floow three simple steps:-
+      1. Open LinkedIn
+      2. Drop a passowrd request message to me !
+      3. Get the password in you dm.
+   ```
+   
+3. **Run The Application**:
    ```bash
    Happy Automating your work !!!
    ```
