@@ -42,8 +42,6 @@ If you'd like to avoid this warning in future releases, consider the following s
 2. At the bottom of the **General** tab, click **Unblock** (if the option is available).
 3. Click **Apply** and **OK**.
 
-Alternatively, for developers:
-- Consider **digitally signing** the application with a code-signing certificate. This will make SmartScreen trust your application over time.
 
 ## Installation Instructions
 
@@ -57,29 +55,23 @@ To run this project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo-url/MouseTracker.git
+   git clone https://github.com/Pratik-Khose/Mouse-Pointer-Tracker-and-Automation-Software.git
    ```
 
 2. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install  Mouse_automate.exe
    ```
-
-3. **Run the application**:
+2. **Run The Application**:
    ```bash
-   python mouse_tracker.py
+   Happy Automating your work !!!
    ```
 
-## Future Plans
 
-- Implement screenshot functionality.
-- Additional customization options for the UI.
-- Further optimizations and code signing.
+
 
 ## License
 
 This project is licensed under the MIT License.
 
 ---
-
-You can copy this and paste it into the `README.md` file for your GitHub repository. Make sure to replace placeholders like `[your-repo-url]` with the actual URL of your repository. This post provides all the details for your users and developers, including steps to bypass the SmartScreen warning and how to use the app effectively.
