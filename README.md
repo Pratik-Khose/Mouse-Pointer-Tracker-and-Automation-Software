@@ -1,11 +1,6 @@
 # Mouse-Pointer-Tracker-and-Automation-Software
-Creating a GitHub post (README) for your project can help you guide users through SmartScreen warnings and establish trust in your application. Below is an example of how you could structure your README file to address the SmartScreen issue and provide general installation instructions.
 
----
-
-# Mouse Tracker with Snapshots
-
-**Mouse Tracker with Snapshots** is a Python-based GUI application that tracks the live coordinates of your mouse pointer and allows you to take "snapshots" of your mouse position with a timestamp. You can save these snapshots to a text file.
+**Mouse Tracker with Snapshots** is a Python-based GUI application that tracks the live coordinates of your mouse pointer and allows you to take "snapshots" of your mouse position with a timestamp. You can save these snapshots to a text file and later use it to automate the clicks and steps to ease your life and minimize human efforts by automating the same age old daily tasks being done in one single click.
 
 ## Features
 
@@ -65,10 +60,10 @@ To run this project locally:
 
 3. **The Most IMP Step**:
    ```bash
-   For installing the software you would require the software! For that floow three simple steps:-
+   For installing the software you would require the software For that floow three simple steps:-
       1. Open LinkedIn
-      2. Drop a passowrd request message to me !
-      3. Get the password in you dm.
+      2. Drop a passowrd request message to me
+      3. Get the password inside you dm.
    ```
    
 3. **Run The Application**:
