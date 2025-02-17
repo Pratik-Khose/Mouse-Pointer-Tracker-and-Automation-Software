@@ -70,12 +70,4 @@ To run this project locally:
    ```bash
    Happy Automating your work !!!
    ```
-
-
-
-
-## License
-
-This project is licensed under the MIT License.
-
 ---
